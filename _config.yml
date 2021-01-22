@@ -1,2 +1,2 @@
 theme: jekyll-theme-minimal
-exclude: ["README.md", "CNAME", "404.html", "index.html"]
+exclude: ["README.md", "CNAME", index.html"]
